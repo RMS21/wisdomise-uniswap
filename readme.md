@@ -1,6 +1,6 @@
 # Introduction
 
-This is a test case to use uniswap v3 sdk and do the following operations
+This is a test case to use uniswap v3 sdk and do the following operations as a LP on USDC/WETH pool
 
 - Minting a position
 - Add liquidity
